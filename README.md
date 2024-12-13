@@ -8,7 +8,7 @@ Embora o foco principal do projeto não tenha sido o desenvolvimento do modelo d
 - Levantamento de dúvidas sobre os processos.
 - Propostas de planos de ação.
 - Criação de um modelo de exemplo para demonstrar a abordagem adotada.
-- 
+
 Os detalhes completos sobre os processos, fontes de dados e versões podem ser encontrados no script do Jupyter Notebook. Os datasets utilizados estão disponíveis no diretório deste projeto.
 
 ### Estrutura do Projeto
